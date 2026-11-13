@@ -1,4 +1,4 @@
-Olá! Eu sou o Gleiton 👋
+ Olá! Eu sou o Gleiton 👋
 
 🎓 Estudante de Engenharia de Software na Estácio
 
@@ -29,6 +29,6 @@ Conquistar minha primeira oportunidade na área de Tecnologia e evoluir profissi
 
 Estou aberto a oportunidades de estágio e desenvolvimento de software.
 
-LinkedIn:  [!LinkedIn(https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gleiton-marcos-1a2a8237a📫 Contato
+LinkedIn: ##📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gleiton-marcos-1a2a8237a
