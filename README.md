@@ -16,19 +16,6 @@ Olá! Eu sou o Gleiton 👋
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-🚀 Projetos
-
-📋 Sistema de Clientes
-
-Sistema web desenvolvido com HTML, CSS e JavaScript.
-
-Funcionalidades:
-
-* Cadastro de clientes
-* Edição e exclusão
-* Pesquisa
-* localStorage
-* Design responsivo
 
 📚 Em desenvolvimento
 
